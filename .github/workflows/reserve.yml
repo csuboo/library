@@ -31,6 +31,7 @@ jobs:
     - name: Commit
       run: |
         git config --global user.name csuboo
+        git config --global user.email "mm04315@qq.com"
         git add .
         git commit -m "Update library.log" -a
     - name: Push changes
