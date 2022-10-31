@@ -1,0 +1,101 @@
+
+2022-09-23 12:00:41,780	INFO	该空间当前状态不可预约
+2022-09-23 12:00:41,781	ERROR	该空间当前状态不可预约
+2022-09-23 21:58:53,864	INFO	预约成功
+2022-09-23 22:49:36,813	INFO	该空间当前状态不可预约
+2022-09-23 22:49:36,813	ERROR	该空间当前状态不可预约
+2022-09-24 21:58:53,997	INFO	预约成功
+2022-09-24 22:39:40,553	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-09-24 22:39:40,553	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-09-25 21:58:41,074	INFO	预约成功
+2022-09-25 22:40:31,274	INFO	该空间当前状态不可预约
+2022-09-25 22:40:31,274	ERROR	该空间当前状态不可预约
+2022-09-26 21:59:06,161	INFO	预约成功
+2022-09-26 22:45:48,090	INFO	该空间当前状态不可预约
+2022-09-26 22:45:48,090	ERROR	该空间当前状态不可预约
+2022-09-27 21:58:38,174	INFO	预约成功
+2022-09-27 22:49:43,929	INFO	该空间当前状态不可预约
+2022-09-27 22:49:43,929	ERROR	该空间当前状态不可预约
+2022-09-28 21:58:36,083	INFO	预约成功
+2022-09-28 22:48:34,523	INFO	该空间当前状态不可预约
+2022-09-28 22:48:34,523	ERROR	该空间当前状态不可预约
+2022-09-29 21:58:55,135	INFO	预约成功
+2022-09-29 22:48:44,418	INFO	该空间当前状态不可预约
+2022-09-29 22:48:44,418	ERROR	该空间当前状态不可预约
+2022-09-30 21:58:47,645	INFO	预约成功
+2022-09-30 22:49:35,279	INFO	该空间当前状态不可预约
+2022-09-30 22:49:35,279	ERROR	该空间当前状态不可预约
+2022-10-01 21:58:38,959	INFO	预约成功<br/>您已违约1次,详情请登录web端或联系管理员
+2022-10-01 22:44:09,977	INFO	该空间当前状态不可预约
+2022-10-01 22:44:09,977	ERROR	该空间当前状态不可预约
+2022-10-02 21:58:42,868	INFO	预约成功<br/>您已违约2次,详情请登录web端或联系管理员
+2022-10-02 22:43:46,605	INFO	该空间当前状态不可预约
+2022-10-02 22:43:46,605	ERROR	该空间当前状态不可预约
+2022-10-03 21:59:18,039	INFO	存在黑名单用户，不可执行预约操作
+2022-10-03 21:59:18,040	ERROR	存在黑名单用户，不可执行预约操作
+2022-10-03 22:52:09,220	INFO	该空间当前状态不可预约
+2022-10-03 22:52:09,220	ERROR	该空间当前状态不可预约
+2022-10-04 21:58:41,529	INFO	存在黑名单用户，不可执行预约操作
+2022-10-04 21:58:41,529	ERROR	存在黑名单用户，不可执行预约操作
+2022-10-04 22:49:55,660	INFO	该空间当前状态不可预约
+2022-10-04 22:49:55,660	ERROR	该空间当前状态不可预约
+2022-10-05 21:58:49,311	INFO	预约成功
+2022-10-05 22:52:37,198	INFO	该空间当前状态不可预约
+2022-10-05 22:52:37,198	ERROR	该空间当前状态不可预约
+2022-10-08 22:08:43,126	INFO	预约成功
+2022-10-08 22:23:14,513	INFO	该空间当前状态不可预约
+2022-10-08 22:23:14,514	ERROR	该空间当前状态不可预约
+2022-10-09 22:08:48,976	INFO	预约成功
+2022-10-09 22:23:29,861	INFO	该空间当前状态不可预约
+2022-10-09 22:23:29,861	ERROR	该空间当前状态不可预约
+2022-10-10 22:10:09,295	INFO	预约成功
+2022-10-10 22:25:36,894	INFO	该空间当前状态不可预约
+2022-10-10 22:25:36,894	ERROR	该空间当前状态不可预约
+2022-10-11 22:06:56,972	INFO	预约成功
+2022-10-12 22:05:08,552	INFO	预约成功
+2022-10-12 22:07:13,401	INFO	该空间当前状态不可预约
+2022-10-12 22:07:13,401	ERROR	该空间当前状态不可预约
+2022-10-13 21:57:02,569	INFO	预约成功
+2022-10-13 22:06:59,944	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-13 22:06:59,945	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-14 21:59:59,763	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f45d82cde50>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-14 22:09:03,972	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f18524f4d60>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-15 21:58:56,316	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc3b0ae27f0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-15 22:07:35,290	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe89c8da880>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-16 21:59:04,973	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f992048e820>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-16 22:07:52,506	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f192e66fa60>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-17 21:59:36,542	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1c784fdcd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-17 22:09:23,176	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f54d0948ca0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-18 21:59:53,086	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f286a6039a0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-18 22:09:43,985	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f655c3f4460>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-19 22:00:13,592	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff99519cc40>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-19 22:09:15,582	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f650922edc0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-20 22:00:02,577	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc900a94e50>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-20 22:09:24,613	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7724931af0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-21 21:59:45,258	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f75946f2f10>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-21 22:09:14,324	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd4377bd30>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-22 21:59:18,045	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd46b7219d0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-22 22:08:38,765	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efc9420eb50>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-23 21:59:28,183	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5cec0d1d30>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-23 22:08:20,436	ERROR	HTTPConnectionPool(host='libzw.csu.edu.cn', port=80): Max retries exceeded with url: /cas/index.php?callback=http%3A%2F%2Flibzw.csu.edu.cn%2Fhome%2Fweb%2Ff_second (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2db224fdc0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+2022-10-24 21:58:42,224	INFO	预约成功
+2022-10-24 22:09:01,084	INFO	该空间当前状态不可预约
+2022-10-24 22:09:01,084	ERROR	该空间当前状态不可预约
+2022-10-25 21:58:13,351	INFO	预约成功
+2022-10-25 22:07:24,544	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-25 22:07:24,544	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-26 21:56:52,506	INFO	预约成功
+2022-10-26 22:03:25,497	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-26 22:03:25,497	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-27 21:56:53,003	INFO	预约成功
+2022-10-27 22:05:16,745	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-27 22:05:16,746	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-28 21:56:57,864	INFO	预约成功
+2022-10-28 22:07:22,943	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-28 22:07:22,943	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-29 21:56:58,459	INFO	预约成功
+2022-10-29 22:02:55,717	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-29 22:02:55,717	ERROR	当前用户在该时段已存在预约，不可重复预约
+2022-10-30 21:56:56,275	INFO	预约成功
+2022-10-30 22:03:43,554	INFO	当前用户在该时段已存在预约，不可重复预约
+2022-10-30 22:03:43,554	ERROR	当前用户在该时段已存在预约，不可重复预约
